@@ -5,9 +5,9 @@ Namada's trusted setup ceremony.
 
 To run it just type:
 
-```shell
+
 cargo run
-```
+
 
 You will be asked to provide the seed used during the trusted setup ceremony.
 Once you've done that, you can choose to:
